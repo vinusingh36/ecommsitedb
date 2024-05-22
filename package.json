@@ -7,12 +7,16 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinusingh36/ecommsitedb"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
     "json-serve": "^0.1.0",
-    "json-server": "^1.0.0-beta.0"
+    "json-server": "^0.17.1"
   }
 }
